@@ -1,0 +1,23 @@
+/* 字体a */
+@font-face {
+    font-family: "A";
+    src: url("https://raw.githubusercontent.com/yidika28-gif/ziti/main/aashenyeshitang.ttf");
+}
+
+/* 字体b */
+@font-face {
+    font-family: "B";
+    src: url("https://raw.githubusercontent.com/yidika28-gif/ziti/main/瑞美加张清平硬笔楷书.ttf");
+}
+
+/* 字体c */
+@font-face {
+    font-family: "C";
+    src: url("https://raw.githubusercontent.com/yidika28-gif/ziti/main/你是散落人间的星辰.ttf");
+}
+
+/* 字体d */
+@font-face {
+    font-family: "D";
+    src: url("https://raw.githubusercontent.com/yidika28-gif/ziti/main/米开落雁行书.ttf");
+}
